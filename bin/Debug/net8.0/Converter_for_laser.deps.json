@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Converter_for_laser/1.0.0": {
+        "runtime": {
+          "Converter_for_laser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converter_for_laser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

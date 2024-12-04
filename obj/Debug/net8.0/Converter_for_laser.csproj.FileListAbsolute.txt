@@ -1,0 +1,14 @@
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\bin\Debug\net8.0\Converter_for_laser.exe
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\bin\Debug\net8.0\Converter_for_laser.deps.json
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\bin\Debug\net8.0\Converter_for_laser.runtimeconfig.json
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\bin\Debug\net8.0\Converter_for_laser.dll
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\bin\Debug\net8.0\Converter_for_laser.pdb
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.AssemblyInfoInputs.cache
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.AssemblyInfo.cs
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.dll
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\refint\Converter_for_laser.dll
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.pdb
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\Converter_for_laser.genruntimeconfig.cache
+C:\Users\yakov\Desktop\RussAtom\LaserConverter_C#Version\obj\Debug\net8.0\ref\Converter_for_laser.dll
